@@ -17,7 +17,7 @@ Our approach to tackling this problem was to create a machine learning model tha
 | [Data Analysis.ipynb](https://github.com/data-x-sp19/EVAC/blob/master/Data_Analysis.ipynb) | All code that deals with our model, also includes models we did not choose but considered |
 | [Assets Folder](https://github.com/data-x-sp19/EVAC/tree/master/assets) | Location of all the EDA visualizations (screenshots / graphs) |
 | [Data folder](https://github.com/data-x-sp19/EVAC/tree/master/Data) | All the datasets we referenced in the above iPython notebooks |
-| [Map Folder](https://github.com/data-x-sp19/EVAC/tree/master/Data) | Input and output datasets relevant to the [Live Map](https://drive.google.com/open?id=1bNr_xGcX50OH6AKjZgx5ucDQ5S6mvcBV&usp=sharing) |
+| [Map Folder](https://github.com/data-x-sp19/EVAC/tree/master/Data/Map) | Input and output datasets relevant to the [Live Map](https://drive.google.com/open?id=1bNr_xGcX50OH6AKjZgx5ucDQ5S6mvcBV&usp=sharing) |
 
 ## Contributors
 [Avinash Jain](https://github.com/TheCurryMan), [Jason Ma](https://github.com/jason358ma), [Perry Trinh](https://github.com/PerryTrinh), [Nimalen Sivapalan](https://github.com/nsivapalan), [Shoumik Jamil](https://github.com/shoumikjamil)
