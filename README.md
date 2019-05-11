@@ -4,7 +4,7 @@
 
 ![Map of Columbus, OH with recommended locations](https://raw.githubusercontent.com/data-x-sp19/EVAC/master/assets/Final_Results.png)
 
-### [Final Presentation](https://docs.google.com/presentation/d/1Fr2MnUwbLblFgNcuKgZjqjj364f2gSeF1i40wcLmpDk/edit?usp=sharing) || [Live Map](https://drive.google.com/open?id=1bNr_xGcX50OH6AKjZgx5ucDQ5S6mvcBV&usp=sharing)
+### [Final Presentation](https://docs.google.com/presentation/d/1Fr2MnUwbLblFgNcuKgZjqjj364f2gSeF1i40wcLmpDk/edit?usp=sharing) || [Live Map](https://drive.google.com/open?id=1bNr_xGcX50OH6AKjZgx5ucDQ5S6mvcBV&usp=sharing) || [Final Report](https://docs.google.com/document/d/1jXsTJBmdjDkTkhMDF2-oV9uXikDpU8x_DHMN_w4IsAU/edit?usp=sharing)
 
 Every day more and more Teslas are hitting the road as consumers around the United States are buying electric vehicles at a rapidly growing rate. Numerous car companies including BMW, Porsche, and Audi are all launching new electric vehicle cars in the next few years. Volkswagen has committed to creating electric alternatives for its entire lineup of vehicles by 2030, planning to sell 22 million more electric vehicles. As the number of electric vehicles exponentially grows, there becomes an immediate need for more charging stations around the country. Working with Honda and their research and development team, we wanted to answer this simple question - where should the next electric vehicle charging station be implemented? That’s where E.V.A.C. comes in - a machine learning model that can accurately predict the best locations to implement electric vehicle charging stations in Columbus, Ohio. 
 
